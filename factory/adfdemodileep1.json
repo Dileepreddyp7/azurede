@@ -1,0 +1,9 @@
+{
+	"name": "adfdemodileep1",
+	"location": "centralus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "cff419f4-5e94-4dc0-a1c7-2fad73ea0df6",
+		"tenantId": "1ee89936-b7e7-484c-a437-12251307e267"
+	}
+}
